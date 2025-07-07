@@ -9,5 +9,6 @@ public class GuidPage {
 
     public String getTitleText(){
         return $(TITLE_GUID_PAGE).getText();
+
     }
 }

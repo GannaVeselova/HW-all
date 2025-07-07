@@ -8,4 +8,5 @@ public class LoginPage {
     public String getUrlLoginPage() {
         return url();
     }
+
 }
