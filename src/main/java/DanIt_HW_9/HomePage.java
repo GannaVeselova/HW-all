@@ -24,5 +24,6 @@ public class HomePage {
     public void clickLoginButton() {
         $(LOGIN_BUTTON).click();
         sleep(5000);
+
     }
 }
